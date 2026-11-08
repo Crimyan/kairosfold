@@ -1,0 +1,11 @@
+{
+  "version": "1.4.0",
+  "notes": "Red flagi w ofertach i pomoc w formularzach (rozszerzenie) / Red flags in job offers and form help (extension).",
+  "pub_date": "2026-11-08T17:48:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTFDOU9LMHVuSGJFRVg5UWw4RUlFbVdvdE5pSE9lMnBveHVnNDMxZnhMWk9rU3RPbzFKWDV6aElQU1JhQUQ1dG5sTGRFNmZEbFJQVlhRcGlkdGh2VmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTYwMTA4CWZpbGU6S2Fpcm9zZm9sZF8xLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjAKRFVTWTV3RlBlbDNvb0NnK2xWQWZjMzJNNWx5dG9pSkthd251R2FUcnRiWWxGK3hXZGI2UFJrbTBZYzI3THczWE9PV2JMYnlYTnhVQzhtV1NFMkNtQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.4.0_x64-setup.exe"
+    }
+  }
+}
