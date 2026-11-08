@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Status „Cisza” nazywa się teraz „Ghosted”.",
+  "pub_date": "2026-11-08T09:30:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNXk3bTdCL3lEWXdyL0dqMStuVnQ4QmJ0c25vS1dnNVRQbnp4S3g3b3JuSFZKdEo1SHIxbXM0K0dPNnVBZVVwWG4vQk8zVERsNkJ1SFVvUmZTRGJGRkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMwMDIwCWZpbGU6S2Fpcm9zXzEuMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMQpia2pQL2xNRndseUVFclNqRmVsQ3pBSkZRSnoxNHA2WTVHRVc3TFRWR2YyajI0b1U5b3pDSkRPL0hnVEVGb2JCemdGM2xjNkl4MkZ3NHRYRGFsYjNDZz09Cg==",
+      "url": "https://github.com/Crimyan/kairos/releases/download/v1.0.1/Kairos_1.0.1_x64-setup.exe"
+    }
+  }
+}
