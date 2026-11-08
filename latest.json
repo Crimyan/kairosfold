@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "notes": "Poprawka aktualizacji – bez zmian w funkcjach.",
+  "pub_date": "2026-11-08T11:59:19Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNXhFNGw5ZUlGaEFYQVNvYUpRZnZ5VWVUQlVWamFFRVdXRTRYSGdzZ3JpdjhVaHpRMzJZZE5xN2ZMMHVLVk4rMXc3N09NSUdDME5mckZQZUdpUHc3emdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM5MTM5CWZpbGU6S2Fpcm9zXzEuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMQphUnU5emlGdksvZklIemxJMU1wWWc4cHd0am11NEZsbUd4MWw5bnVFRy9ScHljZFR6THdHRW0zbzEzc01pUkRvTEZGTjBIeTY2VTJmeXdydW8xL2RCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairos/main/pobierz/Kairos_1.1.1_x64-setup.exe"
+    }
+  }
+}
