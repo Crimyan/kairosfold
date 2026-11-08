@@ -1,0 +1,11 @@
+{
+  "version": "1.3.0",
+  "notes": "English interface – switch in Settings › Appearance and language. / Interfejs po angielsku – przełącznik w Ustawieniach.",
+  "pub_date": "2026-11-08T16:46:09Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTQ5OTdBcEpNL3pNMXNRUS9XYjN5bWdmTFZQQWdZMVlaTUxBcEVsVW1ta1d4ZWllTDJhUmlSMWYzTy9oenl1Q1NVQmx5WkhIZHZ4Y1AxZmRYa0l1d0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU2MzUzCWZpbGU6S2Fpcm9zZm9sZF8xLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4zLjAKbG9rdTBCV2k5VVo0ZytLcGk4MzA1cVhnazRxZ1AyL25uTTJRMWtXNEY0MzlzY3JCOGlaenN2cHg3U1JCWjRBVU5LOGx1MjhORkJXS3pSWjVyVTBDRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.3.0_x64-setup.exe"
+    }
+  }
+}
