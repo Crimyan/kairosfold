@@ -1,0 +1,11 @@
+{
+  "version": "1.4.2",
+  "notes": "Czytelniejsze rozszerzenie: stan oferty, kolorowy przycisk, znaczek zawsze widoczny w trybie szukania / Clearer extension: offer status, coloured button, badge always visible in job search mode.",
+  "pub_date": "2026-11-08T21:40:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTVvQ2Y4N3gvWnVkTkVMSU9nMHAvSG4yNUZ3ZWVSS1N4enVBNTdJcGozaWg2Vmg5SE5hTnYyTWNPMlVZdjlmazZzdjd2amdOQWU3Ly96ZWh0VnBTQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc0MDM3CWZpbGU6S2Fpcm9zZm9sZF8xLjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjIKVVZkOWg5dlhSU2lKSXFsNElZWlkwYXBZVW5BbnVzdWt1RFlTMVF1RVgra3FjUXZjSTRGU2RMbWtRek8rS2o0V0dEUHYrZ0FKbXNUMVo0aVJEQlpqQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.4.2_x64-setup.exe"
+    }
+  }
+}
