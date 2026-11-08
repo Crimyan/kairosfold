@@ -1,0 +1,11 @@
+{
+  "version": "1.2.1",
+  "notes": "Kairos zmienia nazwę na Kairosfold – dane i ustawienia zostają bez zmian.",
+  "pub_date": "2026-11-08T14:58:51Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTRTQlZqeEdiOVZ4SHhlT0dRdU9xRFh1RnFpZHVIdUgvb1VVaUJwMVFSQ1R3TTJhZEFxQUg1VG9mSXFhbnVFL0NhRmN4cjhnTHFNY3p6ZkljNEF4MEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ5MzcwCWZpbGU6S2Fpcm9zZm9sZF8xLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjEKcEdKRmVydWlyZHZ6TkRsdHRPQ1FDOVVNMkVZUWhaQ1dvTzc3WUtuV3I3S3ZNR2cxMU9GYUpqQi9jUzRWcm1zVW5Nd0ZEWVhlVlcxUVUreHNiTlliQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.2.1_x64-setup.exe"
+    }
+  }
+}
