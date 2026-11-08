@@ -1,0 +1,11 @@
+{
+  "version": "1.4.1",
+  "notes": "Tryb szukania pracy w rozszerzeniu, panel otwarty od razu, poprawka dla Firefoksa / Job search mode in the extension, panel open right away, Firefox fix.",
+  "pub_date": "2026-11-08T20:09:02Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNSswenVFSUI5cGxmVmNMalVuVGxqMHVVbHlNL2Q0NmN0TnRJN3FLMks3WGZsYnV3QWp0Q0hvaWgvTzdkNWNxUGhLbWxCMVF0cXdpS0JYUk5iandGV1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY4NTE3CWZpbGU6S2Fpcm9zZm9sZF8xLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjEKWUttLy85SDFUQWNBYmFzMzlTUFVpbXN1ZzhXR3lMK09iQzNFVzVZZ1BWQ1BXVXB3bkJGM1VnbUJhU2xJdlZXYXFNSmM5QVZOQTdzN2c0MStSZ1dOQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.4.1_x64-setup.exe"
+    }
+  }
+}
