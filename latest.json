@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "notes": "Szybka zmiana statusu, własne etapy, znaczniki umów, kilka linków do oferty i poprawki.",
+  "pub_date": "2026-11-08T14:22:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNStRb3liYkJ2RnhxOFBTL2lKUFRIWnZlbVBLU3l4SUVQV1lCUUN6cWtMQVF2amg5WHM1SVNxV3ZRTXFPQVRXeWV4VlFDUys2Z2x3M29FL1ZDZ2pFa0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ3NzA5CWZpbGU6S2Fpcm9zXzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMAp0bFpkeCtUYityemtxajhibk45RG9ld1NNVVlwNTk5Q25QaWNPUmJiaWhlYXFuNG5tWStKcFFvNmJzODJHQUVuOUEvUDNBdFpVVTJJOEFDYm9LVTZDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairos/main/pobierz/Kairos_1.2.0_x64-setup.exe"
+    }
+  }
+}
