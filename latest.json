@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "Rozszerzenie przeglądarki („Do kolejki”, „Otwórz w Kairos”, ostrzeżenia na stronie oferty) i pewniejsze pobieranie aktualizacji.",
+  "pub_date": "2026-11-08T11:47:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTNmQk1XVUUwYlN3bmRRdU9zbW41VnFXVG1tR0NxMjYxMGhWZHdqbktUV1BNQnpjMU0yZlRMVEdPQytad29CaStBNmQwOS80bGZDbUhUY2NHdDJ5bndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM3ODkyCWZpbGU6S2Fpcm9zXzEuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMAp3RWRpem9ydm9EY3FqTzVzS1lHaFZjWWRuN2ltZHNiR0k3K3d4UWU2OFdtYUpLZXRLK2VOYWR1SHdtRGwrM29oZmNKM3JqSzF5Z3c4MUoxYjJhaWhDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairos/main/pobierz/Kairos_1.1.0_x64-setup.exe"
+    }
+  }
+}
