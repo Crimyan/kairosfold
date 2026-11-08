@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Raporty z wykresami i eksportem CSV/PDF, Ctrl+K – szukanie i polecenia, import aplikacji z Excela/CSV, codzienne kopie zapasowe z przywracaniem.",
+  "pub_date": "2026-11-08T09:13:09Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTRVMzJRSHp4ZEwvLzh3akVrYXFneXNSRVRsaUl6cXlHc2ptc0NCRE1CVkczTjc2UCt3MDI1elFUQjJlMjBPOXhYVFRlNTk3bTVXWFY3QWV0eHdoTWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI4MDQ2CWZpbGU6S2Fpcm9zXzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApBaDBlM1RGZ21EajRUWlVHYjcyU0hYc3NaaFJyakZhMyszRzhCVjRZazhLTjlSUFJsOTlqSzFMZHNuNEVOcFliM09mOTlTdVpaeW10QXJvS0FpeDFDUT09Cg==",
+      "url": "https://github.com/Crimyan/kairos/releases/download/v1.0.0/Kairos_1.0.0_x64-setup.exe"
+    }
+  }
+}
