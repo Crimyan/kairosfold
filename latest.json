@@ -1,0 +1,11 @@
+{
+  "version": "1.5.0",
+  "notes": "Samouczek, zlecenia, szablony InDesign i automatyczne kursy walut / Tutorial, commissions, InDesign templates and automatic exchange rates.",
+  "pub_date": "2026-11-11T21:43:02Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTU4ZGRrZ2MxUE0rZ0lpZlI4UmxPZDdicXJwU0JoUkVlbHU5Yk1DQko3MmNBSHlHam1SVy9rcllNUVdQbjhVTUlVL0crc0tzd3pqdGRSVmthbjU2eEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDMzMzYzCWZpbGU6S2Fpcm9zZm9sZF8xLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS41LjAKcTg5QkxBblNHbzVGaUNaS2ZBWUltNmVoQVhIQ0VVN1VHTGJpN2NMYXR0UHFNOEkwYVNkeHVmbzZsbUVOMFlORCtQaytHa2dEMU1WNmJtQ0YyaVRLQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.5.0_x64-setup.exe"
+    }
+  }
+}
