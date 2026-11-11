@@ -1,0 +1,11 @@
+{
+  "version": "1.4.4",
+  "notes": "Rozszerzenie na stronach kariery firm, strona zgód, bezpieczniejsze połączenie / Extension on company career pages, consent page, safer connection.",
+  "pub_date": "2026-11-11T09:38:56Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTRNWXh3aHI3TXBQWjE3U1BoelliNEd6citQRlhPaUxUWWl1ZXNXQi9jQThKcklVZnNyQWRjTEMrbmpsTTFOd1FoeVR4UnkwdE5HZTZqSEszdytnS3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzg5OTA5CWZpbGU6S2Fpcm9zZm9sZF8xLjQuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjQKWVlCS3EzODNrSXg4czhBVFJ2L2hRQm1mYnJhRFpCYjA2M01YMkJWWEpSaVhUSEdtYU9GUjlBNWprZlZFOVlTajg5M2MxdDVSaVlkNVZHVlFyRWFJQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.4.4_x64-setup.exe"
+    }
+  }
+}
