@@ -1,0 +1,11 @@
+{
+  "version": "1.4.3",
+  "notes": "Poprawka: aplikacje przestawione ze szkicu od razu na Rozmowę liczą się w Raportach / Fix: drafts moved straight to Interview now count in Reports.",
+  "pub_date": "2026-11-08T21:54:04Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNXpkTVoyWGFJVFNma2c1VWllb3Y2RVhvemNRY3ZpV2VjZ0Q1bjViM1REeTN2bi9aMk9tQkpsN3U0SElKaFNwc3NkTU1kTlNHZ3BDTnlhbTlxeWxneUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc0ODI4CWZpbGU6S2Fpcm9zZm9sZF8xLjQuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjMKeDlHS1ZvTEJxMGNLNnl6QzY2YkFEcDJBbVBLZEJFdE9pQ3Y0VmlCUlE0V2xwQlRmcVVRbjI5aUNCeTJRL0ZtempmVXlUOGV4UkhaaTYzNkMwYkFIREE9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.4.3_x64-setup.exe"
+    }
+  }
+}
