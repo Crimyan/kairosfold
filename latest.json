@@ -1,0 +1,11 @@
+{
+  "version": "1.6.1",
+  "notes": "Rozszerzenie przeglądarki ze sklepów jednym kliknięciem (Chrome Web Store, Firefox Add-ons) i stan połączenia na żywo. Rozszerzenie zainstalowane ręcznie usuń, zainstaluj ze sklepu i połącz raz jeszcze / Browser extension from the stores in one click (Chrome Web Store, Firefox Add-ons) and a live connection state. If you installed the extension manually, remove it, install it from the store and connect it again.",
+  "pub_date": "2026-11-15T18:12:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTAwV3VzT2N3NVBjUWlRelhzeTUvQTZjc1JNQVJQaHZ3NGlEUmhxOXNRY0lNdHBYSDViSkMrU3QrZ2JMTW1hRHgxcmRrNEZkNEJlb1RVWGNUMTArUEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY2MzA2CWZpbGU6S2Fpcm9zZm9sZF8xLjYuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS42LjEKV2prclZFRUx1MWpNNE1XQWlmVStSNmdRZnhSYnMvRjZHbTJDS1Q1WlFHOFlPdUtJK0FiVHBmNlJQT0VYdDJkSGp5RFEzUXlqZk1iL1dDMmF4T2diRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.6.1_x64-setup.exe"
+    }
+  }
+}
