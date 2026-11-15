@@ -1,0 +1,11 @@
+{
+  "version": "1.6.0",
+  "notes": "Nowy wygląd, Pulpit, Wgrane CV, wspólne Cofnij i zgłaszanie błędów z programu. Kopia bazy przed aktualizacją: kairos.db.przed-schematem-16.bak; kopii zapasowej z 1.6 nie wczytasz w 1.5 / New look, Dashboard, Uploaded CVs, shared Undo and in-app bug reports. Database copy before the update: kairos.db.przed-schematem-16.bak; a 1.6 backup can't be restored in 1.5.",
+  "pub_date": "2026-11-15T17:23:44Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTM2M0ZIa2M3bFBvVXBNMENic0VUSmNHT2lVT0tUK21VdC9OOHBIZ0l4VHNaRG1tR3czRmduZzd1OWN2OEhlaktheUtQci9ydnFvUTlIVVg3VVRKVUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzYzMzk1CWZpbGU6S2Fpcm9zZm9sZF8xLjYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS42LjAKZXkyYitXU2dSVUk0a3JNdHQ4eEgwVk9TOHFvRTlyR2lhaHJ3NHE5QThxa3dqVFdnMkZYTmxlRlNyOFhib2FwYnFSK2I4dE51QnNNbUR5OVBvK3AvQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.6.0_x64-setup.exe"
+    }
+  }
+}
