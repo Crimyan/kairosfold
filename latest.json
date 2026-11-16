@@ -1,0 +1,11 @@
+{
+  "version": "1.6.3",
+  "notes": "Aplikacje z portali z ogłoszeniami wielu firm trafiają już do właściwej firmy, a wcześniejsze przypisania naprawiają się same / Applications from job boards that list many companies now go to the right company, and earlier assignments are fixed automatically.",
+  "pub_date": "2026-11-16T15:22:52Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNTVHUFhhZWxXeFJIZ2ZkaW40anMyWXJhYWhwOUI3ZExYYWp2Zmo1T0l5K00rVXlDSXdmdVphK2dhNFBjZGU1MjlaR040Q3ZHdmpicTEyYmpBMWV5ZXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQyNTUyCWZpbGU6S2Fpcm9zZm9sZF8xLjYuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS42LjMKMWZ0NmNJUXFHdjcvaFltclp3TmZMQ0grRW1SQ0JMU3JkbUZuTXg5QkpYMzlhM3F5bDRxcUx6bE91c0tNVmt4UmREdklVWjUzdHBoREhlZ1MydExhQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.6.3_x64-setup.exe"
+    }
+  }
+}
