@@ -1,0 +1,11 @@
+{
+  "version": "1.7.0",
+  "notes": "Uczciwe dopasowanie CV do ogłoszenia: wymagania, braki, automatyczny dobór klocków i czytelność dla ATS / Honest CV to job ad match: requirements, gaps, automatic block picking and ATS readability.",
+  "pub_date": "2026-11-16T18:10:19Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNXl3UWU4QldZc3h2UzcyV2p4TnpsbXJML3ZNeC9XSmFDdmpoZ2xKeWMzbE1qNjE1MG5SYWlwRXVFQkxlUUs1dThpMXU1OTRmV3kwdVJDdFhnZmZPOXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODUyNTk2CWZpbGU6S2Fpcm9zZm9sZF8xLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS43LjAKaU8yM3lldDR2dTZ2RENvN0NpL29uTVVuL2FLdEQycDU5NjVEeGxtbXQxYXlsTFNjTERReGxTTnlIdW5OcDVybUtQSkxpazRKeTFhRDM3akczUHAwQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.7.0_x64-setup.exe"
+    }
+  }
+}
