@@ -1,0 +1,11 @@
+{
+  "version": "1.7.1",
+  "notes": "Poprawka Raportów: cofnięta zmiana statusu nie liczy się już jako wysłanie, odpowiedź ani oferta / Reports fix: a status you went back from no longer counts as sent, a reply or an offer.",
+  "pub_date": "2026-11-16T18:34:53Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNXhTZTRucGt0MENjZlVWakN5bmlLTFBZbnNqZ1YxZDdFWDZCbUJlTjhMYXZRemxqY3czRFQzNXUzOE5ZWXJjcW5scXlKTFAraGUwQzhzM2g0aWsvQkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU0MDUzCWZpbGU6S2Fpcm9zZm9sZF8xLjcuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS43LjEKZ3FHMVpweEtYa3ZFcFgxTFIzSndpYS9jVDd3NGlJSUV5Z2c0bXpBbEt3bXdDRFBVblJRWXQ1VFRHN3AyVWFGQUNwRnhyLzQrbGlFR2dRZVVXVkZXQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.7.1_x64-setup.exe"
+    }
+  }
+}
