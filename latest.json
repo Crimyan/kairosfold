@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "notes": "Nowy panel aplikacji: karta „Następny krok”, ostrzeżenia w jednym miejscu, edycja w miejscu i nowe pola / New application panel: a “Next step” card, warnings in one place, edit in place and new fields.",
-  "pub_date": "2026-11-17T12:23:06Z",
+  "pub_date": "2026-11-27T11:31:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNS9xOHdoa2UwcCt2dkNQbCtxVDZwWDFBQUZLZmVVOFVlaURhWVJ5cnVwbytUdDRqUCtTNTlmOWx0OHZueHZsN3JyTVRXdEZ5YVlmbGhNbzQ2VERISUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE4MTAyCWZpbGU6S2Fpcm9zZm9sZF8xLjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjAKWnBLK0pmNXZCdk5RaE5QYVYzNVp5UTgraTFHblJRR3lqYjY4VVdpNHVJTEMyRGtZQVh6TVZ3eUljNG9wM2FWTlNuZjFRSVlKOTZZZ2FlQ0V4T28wQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNXhBeTY1OU5uNXg0R0ZoVkxQY3I1dTZTNC9xZG1WS1lydVdkM1kyaUJoUHBrTm10UFc4NEpvVGtHWHQvK0tydGpwV0xPUTBxZ0w0dlREWDRLOC9ScU92YXZXS3JydWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc5MDYwCWZpbGU6S2Fpcm9zZm9sZF8xLjguMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS44LjEKYWJCYlM3Nm9Ua1E1UXJTb0JpalFab2JEU2hXbW5LU0NYdk96ZG9VbnFKTWpQdzd6alpEK3g1QXl5TGVzaDhtUVZ4b2JLd0pVMGZ0NTdmYzJNYUtWRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/Crimyan/kairosfold/main/pobierz/Kairosfold_1.8.1_x64-setup.exe"
     }
   }
 }
